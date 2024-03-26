@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Documentos</name>
+   <tag></tag>
+   <elementGuidId>65c2c54b-2b6e-44d3-88b6-0d9e323ff664</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ng-component/div/div[2]/div[4]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d092b55-bca1-425c-8c58-f35e6e6a0d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer c00653</value>
+      <webElementGuid>f2e68a19-3dfe-4f29-a2a5-359a7d783bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Documentos </value>
+      <webElementGuid>d40b3c9d-92a5-449d-b409-0c917e37d04f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;col-auto c0026&quot;]/ng-component[1]/div[@class=&quot;main_div_menu&quot;]/div[@class=&quot;c00669&quot;]/div[@class=&quot;submenulis&quot;]/div[@class=&quot;title_liat_mennu&quot;]/div[@class=&quot;check_Option_menu&quot;]/div[@class=&quot;pointer c00653&quot;]</value>
+      <webElementGuid>70f894fd-6032-4a08-99f6-07d8c5d1faa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ng-component/div/div[2]/div[4]/div/div/div</value>
+      <webElementGuid>f9266d39-639e-476c-8edd-7e8c0a4b8f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notas'])[1]/following::div[5]</value>
+      <webElementGuid>f5bb14ec-8571-409f-9a67-d5cfbef23db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURSO'])[1]/following::div[10]</value>
+      <webElementGuid>2634da5e-248c-40dc-b399-af505d0f5421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIBLIOTECA VIRTUAL'])[1]/preceding::div[2]</value>
+      <webElementGuid>23724913-ed97-453f-ac69-23f7b9dbe588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correo UPN'])[1]/preceding::div[7]</value>
+      <webElementGuid>3d128fec-f7db-41a3-b940-6f230b9e81c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Documentos']/parent::*</value>
+      <webElementGuid>b44cda18-58e4-4a3a-9e85-821a62a980bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>a8c59ba0-09b1-4141-ab7b-d3f61439ee0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Documentos ' or . = ' Documentos ')]</value>
+      <webElementGuid>8bc45906-8c03-4d2a-bc27-3c0ae2f94b3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

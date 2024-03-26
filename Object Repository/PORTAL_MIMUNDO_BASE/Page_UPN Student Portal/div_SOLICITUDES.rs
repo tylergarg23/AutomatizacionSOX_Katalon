@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SOLICITUDES</name>
+   <tag></tag>
+   <elementGuidId>178f744c-ab41-41a5-b246-08f7ba9ab66c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#inaer_menu-7 > div.pointer.c00653</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inaer_menu-7']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ce9500d-a825-43b4-9b85-7981a6dd3a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer c00653</value>
+      <webElementGuid>98232e01-19b8-480c-9144-c684df2cb567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#products</value>
+      <webElementGuid>0cb7a017-17d9-4f00-a8f7-9f9e4f164b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SOLICITUDES </value>
+      <webElementGuid>c68e0119-649d-43f2-8b57-b39606156d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inaer_menu-7&quot;)/div[@class=&quot;pointer c00653&quot;]</value>
+      <webElementGuid>60ab0da8-df3a-4132-a703-38c478ad9250</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inaer_menu-7']/div</value>
+      <webElementGuid>1952f976-a350-4c83-9880-aa4aa1ef68bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pagos'])[1]/following::div[5]</value>
+      <webElementGuid>258af963-9198-44e0-b8d2-603778e9c9c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correo UPN'])[1]/following::div[10]</value>
+      <webElementGuid>05a8bc8e-7d6e-4957-bc1c-5659107e6f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONSOLIDADOS DE MATRÍCULA'])[1]/preceding::div[1]</value>
+      <webElementGuid>5514a03f-5f50-4ccd-b72b-06e3a79236a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLICITUD CARTA DE PRESENTACIÓN'])[1]/preceding::div[4]</value>
+      <webElementGuid>9328ac6f-b015-429c-b4ca-db235f4b07c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SOLICITUDES']/parent::*</value>
+      <webElementGuid>bc297dba-9459-4987-ab99-a81a98764fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div</value>
+      <webElementGuid>73336d53-3556-459c-939b-2108498f8fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' SOLICITUDES ' or . = ' SOLICITUDES ')]</value>
+      <webElementGuid>8fdea490-8cb5-4745-9b86-de16abb53866</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

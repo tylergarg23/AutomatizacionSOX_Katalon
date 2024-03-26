@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OTRAS SOLICITUDESundefinedHola, undefined</name>
+   <tag></tag>
+   <elementGuidId>1df2019d-e0fb-49a4-adad-e424c03e6484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-wrap.align-items-center.justify-content-center.justify-content-md-between.flex-column.flex-md-row.py-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e977b0a9-05f7-4962-a243-52a7026120fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-wrap align-items-center justify-content-center justify-content-md-between flex-column flex-md-row py-3</value>
+      <webElementGuid>e7399cda-0996-443c-9f0c-63a0112a220f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OTRAS SOLICITUDESundefinedHola, undefined</value>
+      <webElementGuid>1dee38bc-78ad-43b7-bd91-8b337e518962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overflow-auto&quot;]/div[@class=&quot;bg-primary&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-wrap align-items-center justify-content-center justify-content-md-between flex-column flex-md-row py-3&quot;]</value>
+      <webElementGuid>f505aa06-1b20-4f26-9ca2-49494df9435c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div</value>
+      <webElementGuid>85824721-448e-4219-9b03-9923668ebbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>3e9f2181-4166-415e-b1cb-236dbe595f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OTRAS SOLICITUDESundefinedHola, undefined' or . = 'OTRAS SOLICITUDESundefinedHola, undefined')]</value>
+      <webElementGuid>31842752-2570-4ee0-8c45-7b46e54072b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

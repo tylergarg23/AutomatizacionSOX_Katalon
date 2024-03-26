@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Biblioteca Virtual_img-fluid rounded_im_726126</name>
+   <tag></tag>
+   <elementGuidId>bcd5618e-d6ff-4de8-8c9b-4539c27caba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://pe-upn-prod-cmsv4.s3.amazonaws.com/aula_virtual_9759b67625.png')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>96bd2369-c699-4d38-8e48-a434655caab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid rounded_img img_service c00809</value>
+      <webElementGuid>9d411ba3-86b7-473c-bdeb-5f338fd9fd7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://pe-upn-prod-cmsv4.s3.amazonaws.com/aula_virtual_9759b67625.png</value>
+      <webElementGuid>39b1a187-d1f5-4de1-a5a6-4dc741319615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/moo-app[1]/div[@class=&quot;main-container&quot;]/section[1]/moo-dashboard-main[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 h-100 p-0&quot;]/div[1]/div[@class=&quot;row m-4&quot;]/div[@class=&quot;col h-100 p-0&quot;]/div[1]/ng-component[1]/moo-myservices-dash-widget[1]/div[@class=&quot;row justify-content-md-center services-dash-widget-container&quot;]/div[@class=&quot;my-services-dash-widget-box col cursor-pointer c00805&quot;]/div[1]/div[@class=&quot;d-flex justify-content-center img_container c00829&quot;]/img[@class=&quot;img-fluid rounded_img img_service c00809&quot;]</value>
+      <webElementGuid>c7fe3a05-66f6-4395-b0b8-069627762e66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://pe-upn-prod-cmsv4.s3.amazonaws.com/aula_virtual_9759b67625.png')]</value>
+      <webElementGuid>e7d6474c-e5f8-488c-93ab-09cddddd92aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/img</value>
+      <webElementGuid>dca9d051-ec8c-419e-b07b-e7221c76fe45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://pe-upn-prod-cmsv4.s3.amazonaws.com/aula_virtual_9759b67625.png']</value>
+      <webElementGuid>8fef8803-f32e-410d-b4cb-b785b72eb45e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_JONATHAN SOLIER</name>
+   <tag></tag>
+   <elementGuidId>d0c6c78c-4e17-48ed-a9c1-9400c87fa845</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'JONATHAN SOLIER')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.user</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df7a87c2-a492-499e-91df-3fdead9879e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user</value>
+      <webElementGuid>7144d314-21ae-40ac-b9e5-f04ab0787a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JONATHAN SOLIER</value>
+      <webElementGuid>dc4058e2-3142-456c-9264-40f1b3caddeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;usuario-contenedor&quot;]/div[@class=&quot;usuario&quot;]/a[@class=&quot;user&quot;]</value>
+      <webElementGuid>f7c87e44-91f1-455b-84b1-7b1805451bfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'JONATHAN SOLIER')]</value>
+      <webElementGuid>c67a05dc-5cc3-497c-ade9-ae768bbdc37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitudes'])[1]/preceding::a[3]</value>
+      <webElementGuid>fdbd2791-494e-4ece-8159-ce15cc8feb70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentos'])[1]/preceding::a[4]</value>
+      <webElementGuid>a3014212-e151-45d0-aa3a-ee418226869a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JONATHAN SOLIER']/parent::*</value>
+      <webElementGuid>ee990163-9c06-4ad7-a64f-b74de9c6a253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>83fa1bb9-da12-4f60-9449-0643df955697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'JONATHAN SOLIER' or . = 'JONATHAN SOLIER')]</value>
+      <webElementGuid>b359dfc4-475d-49dc-8ca8-4da99c5d9487</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

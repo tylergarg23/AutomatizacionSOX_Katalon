@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_NOTIFICACIN_logo pointer</name>
+   <tag></tag>
+   <elementGuidId>5f62397d-41e8-4c0c-9ef9-a3b0f8208408</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.logo.pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>278f2ea4-17a2-4459-89f9-c8da3b3d1230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo pointer</value>
+      <webElementGuid>df157512-65e1-4abe-a419-277fbe10fa1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://upn-prod.s3.sa-east-1.amazonaws.com/settings/uploads/header_logo/logotipo-principal-positivo-rgbpng-1632767393.png</value>
+      <webElementGuid>958e7c9a-6dc4-4944-9a37-d2e73a8e5309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;col-auto logo_img_header&quot;]/div[@class=&quot;navbar-brand m-0 c0079&quot;]/img[@class=&quot;logo pointer&quot;]</value>
+      <webElementGuid>fb6c6c46-34e4-45b0-8b66-8883419275f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div[2]/div/img</value>
+      <webElementGuid>6c59548c-09f1-4976-a8da-5230b003339b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://upn-prod.s3.sa-east-1.amazonaws.com/settings/uploads/header_logo/logotipo-principal-positivo-rgbpng-1632767393.png')]</value>
+      <webElementGuid>8bd67e9b-1763-400a-98d4-ed2c312e4656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>752cd482-fcdf-4b9c-9887-e7a67e713106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://upn-prod.s3.sa-east-1.amazonaws.com/settings/uploads/header_logo/logotipo-principal-positivo-rgbpng-1632767393.png']</value>
+      <webElementGuid>48e5142e-1dc0-4480-b3f8-99c1c9ec0fcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

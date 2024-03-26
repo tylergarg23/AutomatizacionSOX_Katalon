@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_OTRAS SOLICITUDES</name>
+   <tag></tag>
+   <elementGuidId>c042a4d7-6678-451a-a41e-2d15e3990877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>45f092de-c66f-4f14-a5f7-74f94067de08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OTRAS SOLICITUDES</value>
+      <webElementGuid>29adfbec-61ff-4251-a64e-aaf7bf2d99f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overflow-auto&quot;]/div[@class=&quot;bg-primary&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex flex-wrap align-items-center justify-content-center justify-content-md-between flex-column flex-md-row py-3&quot;]/div[2]/h1[1]</value>
+      <webElementGuid>298bdea8-9629-4187-8ffb-224f74b93a52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/h1</value>
+      <webElementGuid>e840bbd4-6633-4bfe-aec4-631d49c8496a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='undefined'])[1]/preceding::h1[1]</value>
+      <webElementGuid>b71a575d-4a87-4184-b858-d29d0ba8e246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola, undefined'])[1]/preceding::h1[1]</value>
+      <webElementGuid>890057b4-91d4-42b5-b6c6-135a342bff0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OTRAS SOLICITUDES']/parent::*</value>
+      <webElementGuid>fe279ec7-62ae-45c4-adb4-67562e62b89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>6be24ea3-5141-42f1-a18f-60552e055859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'OTRAS SOLICITUDES' or . = 'OTRAS SOLICITUDES')]</value>
+      <webElementGuid>39a8529e-9788-43e8-b0c2-c23c3905357e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

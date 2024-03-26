@@ -1,0 +1,84 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://mimundo.upn.edu.pe/')
+
+WebUI.setText(findTestObject('Object Repository/testtt/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_loginfmt'), 'n00034693@upn.pe')
+
+WebUI.click(findTestObject('Object Repository/testtt/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_idSIButton9'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/testtt/Page_Iniciar sesin/input_Se requiere JavaScript_Password'), 
+    'UAj/HGe0ccIVqy0CyzR+uQ==')
+
+WebUI.click(findTestObject('Object Repository/testtt/Page_Iniciar sesin/span_Iniciar sesin'))
+
+//SOLICITUDES
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img'))
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/div_SOLICITUDES'))
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/div_CONSOLIDADOS DE MATRCULA'))
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_CONSOLIDADOS DE MATRCULA_1'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(10)
+
+WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/1.png')
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img'))
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/div_SOLICITUD CARTA DE PRESENTACIN'))
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_CARTA DE PRESENTACIN'))
+
+WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/2.png')
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img'))
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/div_DOCUMENTOS VIRTUALES'))
+
+WebUI.switchToWindowTitle('Intranet - UPN')
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Intranet - UPN/a_JONATHAN SOLIER'))
+
+WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/3.png')
+
+WebUI.delay(10)
+
+WebUI.switchToWindowTitle('UPN Student Portal')
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img'))
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/div_OTRAS SOLICITUDES'))
+
+WebUI.switchToWindowTitle('Portal Tramites')
+
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Portal Tramites/h1_OTRAS SOLICITUDES'))
+
+WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/4.png')
+
+WebUI.delay(10)
+
+WebUI.closeBrowser()
+

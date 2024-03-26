@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SOLICITUDES  CONSOLIDADOS DE MATRCULA  _541a4b</name>
+   <tag></tag>
+   <elementGuidId>2c014151-6822-47b7-be43-90b4e7bf1377</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inaer_menu-7']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inaer_menu-7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b56981a9-4301-4b56-b08f-a04ee65415e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check_Option_menu inaer_menu</value>
+      <webElementGuid>73e889ec-9c18-4805-9e25-df3e33d7170e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inaer_menu-7</value>
+      <webElementGuid>0aa882a9-9345-4a42-952c-8850bea9f0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SOLICITUDES  CONSOLIDADOS DE MATRÍCULA  SOLICITUD CARTA DE PRESENTACIÓN  DOCUMENTOS VIRTUALES  OTRAS SOLICITUDES </value>
+      <webElementGuid>af398937-5b40-42c0-9c69-e7b153ea800d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inaer_menu-7&quot;)</value>
+      <webElementGuid>f1fedcf4-e875-4464-962d-3cf825f3f1aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='inaer_menu-7']</value>
+      <webElementGuid>6a9f26f8-2246-4882-ac0b-043443a28d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ng-component/div/div[2]/div[8]/div/div</value>
+      <webElementGuid>ee8e0d05-dd21-494e-881e-8a58640c13d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pagos'])[1]/following::div[4]</value>
+      <webElementGuid>5ddc8a1d-221d-4c8e-aa31-3dbd0f00b69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correo UPN'])[1]/following::div[9]</value>
+      <webElementGuid>8a16570f-8510-44cf-a4ff-be679437a2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div</value>
+      <webElementGuid>e9f6f0ec-f5b9-41af-8e1c-c52f2cfc3ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'inaer_menu-7' and (text() = ' SOLICITUDES  CONSOLIDADOS DE MATRÍCULA  SOLICITUD CARTA DE PRESENTACIÓN  DOCUMENTOS VIRTUALES  OTRAS SOLICITUDES ' or . = ' SOLICITUDES  CONSOLIDADOS DE MATRÍCULA  SOLICITUD CARTA DE PRESENTACIÓN  DOCUMENTOS VIRTUALES  OTRAS SOLICITUDES ')]</value>
+      <webElementGuid>0f28b4aa-5021-424a-9b16-9366fa6c8ae7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

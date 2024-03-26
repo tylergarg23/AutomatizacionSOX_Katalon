@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pagos</name>
+   <tag></tag>
+   <elementGuidId>c016c75e-5d0f-406c-bd37-5069fa264f56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ng-component/div/div[2]/div[7]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b878b9d-c98c-4a40-be46-9026c07cc20b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer c00636</value>
+      <webElementGuid>2cc07877-693e-4232-9aee-9515d10347ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pagos </value>
+      <webElementGuid>46501ff2-1b09-40db-99bc-cf9f1e59fcc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;col-auto c009&quot;]/ng-component[1]/div[@class=&quot;main_div_menu&quot;]/div[@class=&quot;c00652&quot;]/div[@class=&quot;submenulis&quot;]/div[@class=&quot;title_liat_mennu&quot;]/div[@class=&quot;check_Option_menu&quot;]/div[@class=&quot;pointer c00636&quot;]</value>
+      <webElementGuid>d463a2e7-127f-4465-9f15-67ec04e0fe16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ng-component/div/div[2]/div[7]/div/div/div</value>
+      <webElementGuid>dea04475-2ebe-4955-b9f4-8370cccf3bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correo UPN'])[1]/following::div[5]</value>
+      <webElementGuid>d445c5d0-dd0b-4e9d-9861-f24e13e9ec51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIBLIOTECA VIRTUAL'])[1]/following::div[10]</value>
+      <webElementGuid>3fec83a4-aa2a-44a6-90e9-b06401bd2583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLICITUDES'])[1]/preceding::div[2]</value>
+      <webElementGuid>bdcd72a9-fa89-4f1c-a3ab-c7190ce75c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONSOLIDADOS DE MATRÍCULA'])[1]/preceding::div[3]</value>
+      <webElementGuid>bce2af94-5afc-48a1-8501-8019c12a583b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pagos']/parent::*</value>
+      <webElementGuid>55ebf44d-8a39-44a9-bdc3-0a9ca66b87bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div</value>
+      <webElementGuid>d530e9dc-61d9-4f88-9535-694ba403d5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Pagos ' or . = ' Pagos ')]</value>
+      <webElementGuid>e15241d5-6418-433d-b955-50eae6b58355</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

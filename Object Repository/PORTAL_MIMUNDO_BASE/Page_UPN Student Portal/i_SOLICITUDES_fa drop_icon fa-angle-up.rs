@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_SOLICITUDES_fa drop_icon fa-angle-up</name>
+   <tag></tag>
+   <elementGuidId>8332e3eb-0fcf-4a7b-a346-f08b465cb47b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.drop_icon.fa-angle-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inaer_menu-7']/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>14ca52ce-f39d-4794-a529-9224702ebc9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa drop_icon fa-angle-up</value>
+      <webElementGuid>b39855e9-42de-4033-abbf-7e8df9791ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inaer_menu-7&quot;)/div[@class=&quot;pointer c00653&quot;]/i[@class=&quot;fa drop_icon fa-angle-up&quot;]</value>
+      <webElementGuid>82ce5859-1cb2-4c2c-bb4b-564acaee5021</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inaer_menu-7']/div/i</value>
+      <webElementGuid>584b274f-7265-4935-8c30-ff5e640a030c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>d529d35d-606c-4cb2-9cea-b43b9ba8348b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
