@@ -40,9 +40,9 @@ WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Stude
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_CONSOLIDADOS DE MATRCULA_1'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(10)
+WebUI.delay(5)
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/1.png')
+WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/consolidadoMatricula.png')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img'))
 
@@ -50,9 +50,9 @@ WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Stude
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_CARTA DE PRESENTACIN'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/2.png')
+WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/cartaPresentacion.png')
 
-WebUI.delay(10)
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img'))
 
@@ -62,9 +62,9 @@ WebUI.switchToWindowTitle('Intranet - UPN')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Intranet - UPN/a_JONATHAN SOLIER'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/3.png')
+WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/documentosViertuales.png')
 
-WebUI.delay(10)
+WebUI.delay(5)
 
 WebUI.switchToWindowTitle('UPN Student Portal')
 
@@ -76,9 +76,9 @@ WebUI.switchToWindowTitle('Portal Tramites')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Portal Tramites/h1_OTRAS SOLICITUDES'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/4.png')
+WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/tramites.png')
 
-WebUI.delay(10)
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 

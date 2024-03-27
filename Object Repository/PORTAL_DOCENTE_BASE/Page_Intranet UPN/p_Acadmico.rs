@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Acadmico</name>
+   <tag></tag>
+   <elementGuidId>2e128df8-a154-4014-9f2d-102f073a33cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='medium-contenedor']/li/a/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6338f202-182f-49fa-95c7-3bb8295518a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Académico</value>
+      <webElementGuid>df8b59b4-8b54-4d43-8178-653e8a03e02a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;medium-contenedor&quot;)/li[1]/a[@class=&quot;boton-aplicativo tooltip&quot;]/div[1]/p[1]</value>
+      <webElementGuid>3065a7fa-c41b-47bc-8543-879d80ffa56a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='medium-contenedor']/li/a/div/p</value>
+      <webElementGuid>b7f0161d-57bb-4a5c-bc23-4ed7a5139c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[1]</value>
+      <webElementGuid>9728ac6a-3017-4274-9de4-df4add3c3160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roger Villar Morales'])[1]/following::p[1]</value>
+      <webElementGuid>a68cbe12-46e8-4074-8826-a52dcffe078a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocultar Banners'])[1]/preceding::p[14]</value>
+      <webElementGuid>b3f14a20-6e9d-4d26-aaf3-45c3224ef68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi Mundo UPN'])[1]/preceding::p[14]</value>
+      <webElementGuid>b12deb87-51aa-4117-88b9-06fb7de873e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8a5ee682-4c21-43f6-8912-011f4dd4b184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Académico' or . = 'Académico')]</value>
+      <webElementGuid>1c743678-116c-4374-8181-9464f6a8a4d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

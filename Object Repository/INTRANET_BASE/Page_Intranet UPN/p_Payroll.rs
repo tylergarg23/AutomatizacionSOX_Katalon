@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Payroll</name>
+   <tag></tag>
+   <elementGuidId>30daf620-4355-4444-a96b-5c1314ef77df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='medium-contenedor']/li[11]/a/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e52016de-d2fd-4275-b47c-547ffd91a8a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payroll</value>
+      <webElementGuid>3ea58d33-7d52-4952-b200-8ed35e6d1577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;medium-contenedor&quot;)/li[11]/a[@class=&quot;boton-aplicativo tooltip&quot;]/div[1]/p[1]</value>
+      <webElementGuid>32de2a76-4c54-4090-91fe-5b8341833b0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='medium-contenedor']/li[11]/a/div/p</value>
+      <webElementGuid>8febfcca-421b-405e-8baf-64dd5b85a66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[11]</value>
+      <webElementGuid>17ab3080-3dfc-4940-b8e0-ca1a45816df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tyler Oscar Garcia Rodriguez'])[1]/following::p[11]</value>
+      <webElementGuid>d38c1f1f-de7c-4275-8b61-2b5aebde8637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocultar Banners'])[1]/preceding::p[3]</value>
+      <webElementGuid>1e10a40b-cf69-4af3-a853-23fd380953e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi Mundo UPN'])[1]/preceding::p[3]</value>
+      <webElementGuid>32f56c5f-252a-4e92-9141-180c14eb5f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Payroll']/parent::*</value>
+      <webElementGuid>dbb644ff-e063-4e9b-aa32-7bb1286e50a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a/div/p</value>
+      <webElementGuid>42b24d66-e830-4367-96a8-f11f70c118c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Payroll' or . = 'Payroll')]</value>
+      <webElementGuid>cd5e85c5-4a96-4ac8-802d-5bb619c81591</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

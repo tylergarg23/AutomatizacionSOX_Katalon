@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Intranet</name>
+   <tag></tag>
+   <elementGuidId>c7e84b5d-9843-4ed1-a219-54ca38906113</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='medium-contenedor']/li[8]/a/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>15e30719-8eeb-45e9-951b-08e88df6d89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intranet</value>
+      <webElementGuid>615ab312-9b5d-49e4-ab01-8212f3dfee86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;medium-contenedor&quot;)/li[8]/a[@class=&quot;boton-aplicativo tooltip&quot;]/div[1]/p[1]</value>
+      <webElementGuid>dee6617d-d597-4355-b08e-0791e1285a6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='medium-contenedor']/li[8]/a/div/p</value>
+      <webElementGuid>7934092f-39c4-4b6b-80a4-eaeea62cd2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[8]</value>
+      <webElementGuid>939ad7b1-c46f-411d-9997-d1f68b2ed82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tyler Oscar Garcia Rodriguez'])[1]/following::p[8]</value>
+      <webElementGuid>5ea6cdd2-cc10-44f4-be0c-3fef7d37f275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocultar Banners'])[1]/preceding::p[6]</value>
+      <webElementGuid>ed7c97b8-5938-4f03-977d-c1c3eb537242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi Mundo UPN'])[1]/preceding::p[6]</value>
+      <webElementGuid>a96e7cef-35ae-4247-b516-02ae8c3fcbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Intranet']/parent::*</value>
+      <webElementGuid>ce413801-28b3-4487-b3fa-2d83b9f3841b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/div/p</value>
+      <webElementGuid>5b892910-5ddb-4437-a99f-b0c778bec4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Intranet' or . = 'Intranet')]</value>
+      <webElementGuid>170839c3-739c-4c62-87d9-70b49b613c8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

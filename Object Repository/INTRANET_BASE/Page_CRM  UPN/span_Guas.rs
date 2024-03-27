@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Guas</name>
+   <tag></tag>
+   <elementGuidId>667ce920-52a3-4019-94fa-b26d6c993ceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form1']/div[5]/div[3]/div/div/h3/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d0de33e4-04e5-4d71-b573-fd5eb79fea0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Guías</value>
+      <webElementGuid>acf58d2e-73bc-407d-a689-d7abbe4ebf6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[@class=&quot;right-container&quot;]/div[@class=&quot;title-panel-upn&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/h3[1]/span[1]</value>
+      <webElementGuid>1a7f4ea9-ce61-4959-ae84-57aebf2f368a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[5]/div[3]/div/div/h3/span</value>
+      <webElementGuid>792c0ceb-e23e-4c41-b4a1-119371318bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guías'])[1]/following::span[1]</value>
+      <webElementGuid>277e3dc5-793c-4c65-b850-d985ccd9224b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio'])[1]/following::span[1]</value>
+      <webElementGuid>1eaffcaf-be77-42c5-9786-8540ebbb5b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2020 Universidad Privada del Norte. Todos los derechos reservados.'])[1]/preceding::span[1]</value>
+      <webElementGuid>e62d2d70-e639-4e25-ab2f-d5211d248790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/preceding::span[1]</value>
+      <webElementGuid>ab45feb4-d2d3-41c1-831f-6d5f58baf159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/span</value>
+      <webElementGuid>6e300689-072b-4ac8-ba05-d1b8237620c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Guías' or . = ' Guías')]</value>
+      <webElementGuid>67801345-0655-4bff-a33f-0e7b409959d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

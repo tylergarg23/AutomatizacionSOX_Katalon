@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Bienvenido al sistema de reservas online</name>
+   <tag></tag>
+   <elementGuidId>eaac28d2-d079-4923-9f16-b7c584de076b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form2']/div[3]/div[2]/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>fb541f49-b0fe-4da5-a5e6-da50eedb6008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bienvenido al sistema de reservas online</value>
+      <webElementGuid>2ad582fd-9a58-4f61-9819-1ebf8b4f4063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form2&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;span12&quot;]/div[@class=&quot;hero-unit&quot;]/h2[1]</value>
+      <webElementGuid>b60caaec-1d25-4513-ba39-c5087bfb007a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form2']/div[3]/div[2]/div/div/h2</value>
+      <webElementGuid>f7076d36-2fa6-466a-a5ec-d0ac5a8722a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por favor seleccionar el perfil con el cual desea ingresar.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e46ebaf1-454c-47ad-bd0a-f0eab95b1e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bienvenido al sistema de reservas online']/parent::*</value>
+      <webElementGuid>a3b87351-7d92-47b2-8332-fc5e38674bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>4d2807a3-b400-4147-8ed1-dc6b8762ed66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Bienvenido al sistema de reservas online' or . = 'Bienvenido al sistema de reservas online')]</value>
+      <webElementGuid>f921f1e7-c5c8-4d3d-9985-4e9bbebddd79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

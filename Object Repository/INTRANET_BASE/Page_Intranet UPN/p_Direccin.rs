@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Direccin</name>
+   <tag></tag>
+   <elementGuidId>84d3638a-19f5-4c8b-83d8-567cedd3c785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='medium-contenedor']/li[4]/a/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2459a2af-c5a2-4874-b2ce-609c4fd06f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dirección</value>
+      <webElementGuid>da623a8d-7a2e-46a8-98df-915efdff762d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;medium-contenedor&quot;)/li[4]/a[@class=&quot;boton-aplicativo tooltip&quot;]/div[1]/p[1]</value>
+      <webElementGuid>ac7cf9a7-ec10-4a73-8ca0-66cda5156875</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='medium-contenedor']/li[4]/a/div/p</value>
+      <webElementGuid>17bb2f65-e94c-4a0c-885c-db88cf869c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[4]</value>
+      <webElementGuid>1de29318-883a-4ef0-9f36-c13d9c14b94c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tyler Oscar Garcia Rodriguez'])[1]/following::p[4]</value>
+      <webElementGuid>7f3c1717-ae00-4b52-ba5c-fd8a794aa002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocultar Banners'])[1]/preceding::p[10]</value>
+      <webElementGuid>a665cb4d-1a71-40e3-a5b6-80383e8f9262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi Mundo UPN'])[1]/preceding::p[10]</value>
+      <webElementGuid>0baa7eef-a2e5-4027-b573-37d939cf4f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dirección']/parent::*</value>
+      <webElementGuid>b2c04233-b615-4a52-bab3-c9036b28795a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div/p</value>
+      <webElementGuid>3d03aa08-9726-4b41-8440-0e00a9a20119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Dirección' or . = 'Dirección')]</value>
+      <webElementGuid>1dc3786f-d327-416d-b170-c186a929d952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8002757f-0f3d-4cc9-a179-29314af5ddae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='medium-contenedor']/li[2]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Código de Conducta y Ética&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f2bfe4b4-5245-4787-a333-5fe6061802c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>upload/iconos/CODETH.png</value>
+      <webElementGuid>fbdd9ee1-6a59-4337-9ff3-e8616340531d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Código de Conducta y Ética</value>
+      <webElementGuid>eee00baf-f803-4e78-881a-c5cf60b19335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Código de Conducta y Ética</value>
+      <webElementGuid>a1de8cd5-b417-4076-a006-3fc01b511c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>62</value>
+      <webElementGuid>080d644b-b086-4d3e-ba8e-749b7123f118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>68</value>
+      <webElementGuid>942da149-e2c2-4b5c-849f-379241d5491a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;medium-contenedor&quot;)/li[2]/a[@class=&quot;boton-aplicativo tooltip&quot;]/img[1]</value>
+      <webElementGuid>3aa45109-017c-4826-a296-a388d71a8379</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='medium-contenedor']/li[2]/a/img</value>
+      <webElementGuid>4ccb268c-3d17-4b68-9d6e-cc6f12b71dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Código de Conducta y Ética']</value>
+      <webElementGuid>630e517f-6576-4c5c-aacf-d5c7edf860fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/img</value>
+      <webElementGuid>38ad7d4d-983a-40cb-a7a2-88bef15e2a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'upload/iconos/CODETH.png' and @title = 'Código de Conducta y Ética' and @alt = 'Código de Conducta y Ética']</value>
+      <webElementGuid>3771c30f-efe0-4ee3-80de-e67f86477eca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
