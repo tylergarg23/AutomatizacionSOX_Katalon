@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Egresado_dash-close img-fluid_1</name>
+   <tag></tag>
+   <elementGuidId>fa4d9b0a-a9ec-4860-95c6-7ebd99c51d8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.dash-close.img-fluid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//moo-dash-popup-alert/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>51384fcb-ed67-4925-875f-156e74d29e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dash-close img-fluid</value>
+      <webElementGuid>7398703d-46a0-43b4-9e81-fa5a73ad1582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/modules/close_icon.png</value>
+      <webElementGuid>d8fdb1ef-c96f-4515-8c8d-c4944a24c92d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>571779e8-042d-455d-8116-13cba0e9d6ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/moo-app[1]/div[@class=&quot;main-container&quot;]/section[1]/moo-dashboard-main[1]/moo-dash-popup-alert[1]/div[@class=&quot;dash-modal&quot;]/div[@class=&quot;dash-modal-content-container&quot;]/img[@class=&quot;dash-close img-fluid&quot;]</value>
+      <webElementGuid>59b75329-2807-4526-a55f-1bf0ec80ebba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//moo-dash-popup-alert/div/div/img</value>
+      <webElementGuid>d4a7313c-eed1-4dff-a01d-21e6d26d8b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/modules/close_icon.png']</value>
+      <webElementGuid>ec5e5b0f-1656-4553-8db7-89c76bfe9f8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -31,6 +31,12 @@ WebUI.setEncryptedText(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Pag
 
 WebUI.click(findTestObject('Object Repository/testtt/Page_Iniciar sesin/span_Iniciar sesin'))
 
+// Close Modales
+
+WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid'))
+
+WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid_1'))
+
 //Img Home
 WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/miMundoHome.png')
 
