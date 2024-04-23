@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://repositorio.upn.edu.pe/')
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/sitesRepositorio.png')
+WebUI.takeScreenshot('Imagenes/sitesRepositorio.png')
 
 WebUI.closeBrowser()
 

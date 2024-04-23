@@ -21,6 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.upn.edu.pe/transparencia/reglamentos')
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/sitesReglamentos.png')
+WebUI.takeScreenshot('Imagenes/sitesReglamentos.png')
 
 WebUI.closeBrowser()

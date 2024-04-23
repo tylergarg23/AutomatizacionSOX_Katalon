@@ -21,6 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.upn.edu.pe/servicios-estudiantes/defensoria-universitaria')
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/sitesDefensoria.png')
+WebUI.takeScreenshot('Imagenes/sitesDefensoria.png')
 
 WebUI.closeBrowser()

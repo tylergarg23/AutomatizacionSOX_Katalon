@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://payrollaws.upn.edu.pe:8443/psp/hcm92prd/?cmd=login&languageCd=ESP&')
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/payroll.png')
+WebUI.takeScreenshot('Imagenes/payroll.png')
 
 WebUI.closeBrowser()
 

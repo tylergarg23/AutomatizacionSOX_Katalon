@@ -33,17 +33,18 @@ WebUI.click(findTestObject('Object Repository/testtt/Page_Iniciar sesin/span_Ini
 
 // Close Modales
 
-WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid'))
+//WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid'))
 
 WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid_1'))
 
+WebUI.delay(5)
 //Img Home
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/miMundoHome.png')
+WebUI.takeScreenshot('Imagenes/miMundoHome.png')
 
 WebUI.waitForPageLoad(15)
 
 // img Pagos Mi Mundo
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/pagosMiMundo.png')
+WebUI.takeScreenshot('Imagenes/pagosMiMundo.png')
 
 WebUI.switchToWindowTitle('UPN Student Portal')
 
@@ -51,38 +52,46 @@ WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Stude
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_CURSO'))
 
+WebUI.delay(5)
+
 //img curso
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/cursos.png')
+WebUI.takeScreenshot('Imagenes/cursos.png')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_Notas'))
 
 //img notas
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/notas.png')
+WebUI.takeScreenshot('Imagenes/notas.png')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_Documentos'))
 
+WebUI.delay(5)
+
 //img documentos
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/documentosMiMundo.png')
+WebUI.takeScreenshot('Imagenes/documentosMiMundo.png')
 
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_Mis Servicios'))
 
+WebUI.delay(5)
+
 //img mis servicios
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/misServicios.png')
+WebUI.takeScreenshot('Imagenes/misServicios.png')
 
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_Cursos Historicos'))
 
+WebUI.delay(5)
+
 //img cursos historicos
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/cursosHistoricos.png')
+WebUI.takeScreenshot('Imagenes/cursosHistoricos.png')
 
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
@@ -90,7 +99,7 @@ WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Stude
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/i_SOLICITUDES_fa drop_icon fa-angle-up'))
 
 //img final page
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/finalPageMiMundo.png')
+WebUI.takeScreenshot('Imagenes/finalPageMiMundo.png')
 
 // SOLICITUDES //
 
@@ -107,7 +116,7 @@ WebUI.switchToWindowTitle('Perfil del alumno')
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Perfil del alumno/h1_Perfil del alumno -  JONATHAN MICHAEL SO_1e31d7'))
 
 // Img Matricula en Linea
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/matriculaEnLinea.png')
+WebUI.takeScreenshot('Imagenes/matriculaEnLinea.png')
 
 
 WebUI.closeBrowser()

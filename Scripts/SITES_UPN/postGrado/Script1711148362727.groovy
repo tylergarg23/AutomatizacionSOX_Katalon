@@ -21,6 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.upn.edu.pe/posgrado')
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/sitesPostGrado.png')
+WebUI.takeScreenshot('Imagenes/sitesPostGrado.png')
 
 WebUI.closeBrowser()

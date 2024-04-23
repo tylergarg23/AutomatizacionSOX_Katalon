@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.upn.edu.pe/transparencia/pensiones-tarifas')
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/sitesTarifas.png')
+WebUI.takeScreenshot('Imagenes/sitesTarifas.png')
 
 WebUI.closeBrowser()
 

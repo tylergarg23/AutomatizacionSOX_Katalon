@@ -27,11 +27,11 @@ WebUI.setText(findTestObject('Object Repository/INTRANET_BASE/Page_Login - Intra
     'tyc')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/INTRANET_BASE/Page_Login - Intranet UPN/input_Password_logUPNPassword'), 
-    '1ns3yGZiMI91GryG6k3/wQ==')
+    '1ns3yGZiMI+BR7VjE6GMQg==')
 
 WebUI.click(findTestObject('Object Repository/INTRANET_BASE/Page_Login - Intranet UPN/input_Cambia tu clave aqu_logUPNLoginButton'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/loginIntrane.png')
+WebUI.takeScreenshot('Imagenes/loginIntrane.png')
 
 WebUI.click(findTestObject('Object Repository/INTRANET_BASE/Page_Intranet UPN/p_Direccin'))
 
@@ -39,7 +39,7 @@ WebUI.switchToWindowTitle('Inicio - Portal Dirección')
 
 WebUI.click(findTestObject('Object Repository/INTRANET_BASE/Page_Inicio - Portal Direccin/h1_Documentos'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/direccion.png')
+WebUI.takeScreenshot('Imagenes/direccion.png')
 
 WebUI.closeWindowTitle('Inicio - Portal Dirección')
 
@@ -51,7 +51,7 @@ WebUI.switchToWindowTitle('..::CRM | UPN::..')
 
 WebUI.click(findTestObject('Object Repository/INTRANET_BASE/Page_CRM  UPN/span_Guas'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/gestionDocumental.png')
+WebUI.takeScreenshot('Imagenes/gestionDocumental.png')
 
 WebUI.closeWindowTitle('..::CRM | UPN::..')
 
@@ -63,7 +63,7 @@ WebUI.switchToWindowTitle('.:: UNIVERSIDAD PRIVADA DEL NORTE - UPN Virtual ::.')
 
 WebUI.click(findTestObject('Object Repository/INTRANET_BASE/Page_UNIVERSIDAD PRIVADA DEL NORTE - UPN Virtual/label_Nombre de usuario'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/gestorContenidos.png')
+WebUI.takeScreenshot('Imagenes/gestorContenidos.png')
 
 WebUI.closeWindowTitle('.:: UNIVERSIDAD PRIVADA DEL NORTE - UPN Virtual ::.')
 
@@ -75,7 +75,7 @@ WebUI.switchToWindowTitle('Sistema de Intranet de la Universidad Privada del Nor
 
 WebUI.click(findTestObject('Object Repository/INTRANET_BASE/Page_Sistema de Intranet de la Universidad _3da85c/div_Bienvenido al Sistema de Intranet'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/intranet.png')
+WebUI.takeScreenshot('Imagenes/intranet.png')
 
 WebUI.closeWindowTitle('Sistema de Intranet de la Universidad Privada del Norte')
 
@@ -87,7 +87,7 @@ WebUI.switchToWindowTitle('Universidad Privada del Norte - Reservas Online')
 
 WebUI.click(findTestObject('Object Repository/INTRANET_BASE/Page_Universidad Privada del Norte - Reserv_040ce1/h2_Bienvenido al sistema de reservas online'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/reservasOnline.png')
+WebUI.takeScreenshot('Imagenes/reservasOnline.png')
 
 WebUI.closeWindowTitle('Universidad Privada del Norte - Reservas Online')
 

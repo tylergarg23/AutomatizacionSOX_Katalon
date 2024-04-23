@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/testtt/Page_Iniciar sesin/span_Ini
 
 // Close Modales
 
-WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid'))
+//WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid'))
 
 WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid_1'))
 
@@ -49,7 +49,7 @@ WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Stude
 
 WebUI.delay(5)
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/consolidadoMatricula.png')
+WebUI.takeScreenshot('Imagenes/consolidadoMatricula.png')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img'))
 
@@ -57,7 +57,7 @@ WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Stude
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_CARTA DE PRESENTACIN'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/cartaPresentacion.png')
+WebUI.takeScreenshot('Imagenes/cartaPresentacion.png')
 
 WebUI.delay(5)
 
@@ -69,7 +69,7 @@ WebUI.switchToWindowTitle('Intranet - UPN')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Intranet - UPN/a_JONATHAN SOLIER'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/documentosViertuales.png')
+WebUI.takeScreenshot('Imagenes/documentosViertuales.png')
 
 WebUI.delay(5)
 
@@ -83,7 +83,7 @@ WebUI.switchToWindowTitle('Portal Tramites')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Portal Tramites/h1_OTRAS SOLICITUDES'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/tramites.png')
+WebUI.takeScreenshot('Imagenes/tramites.png')
 
 WebUI.delay(5)
 

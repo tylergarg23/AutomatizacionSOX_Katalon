@@ -37,7 +37,7 @@ WebUI.delay(2)
 
 WebUI.switchToWindowTitle('Intranet UPN')
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/loginPortalDocente.png')
+WebUI.takeScreenshot('Imagenes/loginPortalDocente.png')
 
 WebUI.switchToWindowTitle('Intranet UPN')
 
@@ -49,7 +49,7 @@ WebUI.click(findTestObject('Object Repository/PORTAL_DOCENTE_BASE/Page_Inicio - 
 
 WebUI.click(findTestObject('Object Repository/PORTAL_DOCENTE_BASE/Page_Inicio - Portal Docentes/h5_Pgina Principal'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/academico.png')
+WebUI.takeScreenshot('Imagenes/academico.png')
 
 WebUI.closeWindowTitle('Inicio - Portal Docentes')
 
@@ -61,7 +61,7 @@ WebUI.switchToWindowTitle('Página principal')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_DOCENTE_BASE/Page_Pgina principal/h3_Ayuda - Docente'))
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/aulaVirtual.png')
+WebUI.takeScreenshot('Imagenes/aulaVirtual.png')
 
 WebUI.closeWindowTitle('Página principal')
 

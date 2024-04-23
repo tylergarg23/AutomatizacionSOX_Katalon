@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://admision.upn.edu.pe/colegios')
 
-WebUI.takeScreenshot('D:/2024/Projects QA/Katalon - Automation/AutomationSOX/Imagenes/sitesPostula.png')
+WebUI.takeScreenshot('Imagenes/sitesPostula.png')
 
 WebUI.closeBrowser()
 
