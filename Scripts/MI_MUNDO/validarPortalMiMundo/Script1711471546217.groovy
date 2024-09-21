@@ -22,22 +22,21 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://mimundo.upn.edu.pe/')
 
 WebUI.setText(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_loginfmt'), 
-    'n00034693@upn.pe')
+    'N00255117@upn.pe')
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_idSIButton9'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Iniciar sesin/input_Se requiere JavaScript_Password'), 
-    'UAj/HGe0ccIVqy0CyzR+uQ==')
+    '5sj9/AJeUVdEJgVp+CKkXg==')
 
 WebUI.click(findTestObject('Object Repository/testtt/Page_Iniciar sesin/span_Iniciar sesin'))
 
 // Close Modales
-
 //WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid'))
-
 WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid_1'))
 
 WebUI.delay(5)
+
 //Img Home
 WebUI.takeScreenshot('Imagenes/miMundoHome.png')
 
@@ -73,7 +72,6 @@ WebUI.delay(5)
 //img documentos
 WebUI.takeScreenshot('Imagenes/documentosMiMundo.png')
 
-
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_Mis Servicios'))
@@ -82,7 +80,6 @@ WebUI.delay(5)
 
 //img mis servicios
 WebUI.takeScreenshot('Imagenes/misServicios.png')
-
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
 
@@ -93,7 +90,6 @@ WebUI.delay(5)
 //img cursos historicos
 WebUI.takeScreenshot('Imagenes/cursosHistoricos.png')
 
-
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/i_SOLICITUDES_fa drop_icon fa-angle-up'))
@@ -102,8 +98,6 @@ WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Stude
 WebUI.takeScreenshot('Imagenes/finalPageMiMundo.png')
 
 // SOLICITUDES //
-
-
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/img'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img_NOTIFICACIN_logo pointer'))
@@ -117,7 +111,6 @@ WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_Perfil de
 
 // Img Matricula en Linea
 WebUI.takeScreenshot('Imagenes/matriculaEnLinea.png')
-
 
 WebUI.closeBrowser()
 

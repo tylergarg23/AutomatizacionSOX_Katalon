@@ -21,31 +21,28 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://mimundo.upn.edu.pe/')
 
-WebUI.setText(findTestObject('Object Repository/testtt/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_loginfmt'), 'n00034693@upn.pe')
+WebUI.setText(findTestObject('Object Repository/testtt/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_loginfmt'), 'N00255117@upn.pe')
 
 WebUI.click(findTestObject('Object Repository/testtt/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_idSIButton9'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/testtt/Page_Iniciar sesin/input_Se requiere JavaScript_Password'), 
-    'UAj/HGe0ccIVqy0CyzR+uQ==')
+    '5sj9/AJeUVdEJgVp+CKkXg==')
 
 WebUI.click(findTestObject('Object Repository/testtt/Page_Iniciar sesin/span_Iniciar sesin'))
 
 // Close Modales
-
 //WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid'))
-
 WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_UPN Student Portal/img_Egresado_dash-close img-fluid_1'))
 
-
 //SOLICITUDES
-
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/img'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/div_SOLICITUDES'))
 
 WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal (1)/div_CONSOLIDADOS DE MATRCULA'))
 
-WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_CONSOLIDADOS DE MATRCULA_1'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/PORTAL_MIMUNDO_BASE/Page_UPN Student Portal/div_CONSOLIDADOS DE MATRCULA_1'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)
 

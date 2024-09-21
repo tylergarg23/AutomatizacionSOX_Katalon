@@ -22,12 +22,12 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://mimundo.upn.edu.pe/')
 
 WebUI.setText(findTestObject('Object Repository/MI_MUNDO_HOY/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_loginfmt'), 
-    'N00034693@upn.pe')
+    'N00255117@upn.pe')
 
 WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_Iniciar sesin en la cuenta/input_Iniciar sesin_idSIButton9'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/MI_MUNDO_HOY/Page_Iniciar sesin/input_Se requiere JavaScript_Password'), 
-    'UAj/HGe0ccIVqy0CyzR+uQ==')
+    '5sj9/AJeUVdEJgVp+CKkXg==')
 
 WebUI.click(findTestObject('Object Repository/MI_MUNDO_HOY/Page_Iniciar sesin/span_Iniciar sesin'))
 
